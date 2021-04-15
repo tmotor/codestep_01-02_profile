@@ -1,4 +1,5 @@
 # Codestep 模写課題 入門編 プロフィールサイト
+https://tmotor.github.io/codestep_01-02_profile/
 
 ## デザイン配布元
 [【HTML/CSS 模写課題】入門編：プロフィールサイト／LP | Codestep（コードステップ）](https://code-step.com/profile-menu/)
